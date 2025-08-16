@@ -1,0 +1,10 @@
+print('| Welcome to Python Calculator App |')
+
+num1=float(input('First Number:'))
+num2=float(input('Second Number: '))
+print('------------------------------------')
+print('Adding: '+str(num1+num2))
+print('Subtract: '+str(num1-num2))
+print('Multiply: '+str(num1*num2))
+print('divide: '+str(num1/num2))
+print('modelus: '+str(num1%num2))
